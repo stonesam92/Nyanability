@@ -6,6 +6,8 @@ Nyanability takes this feature one step further, ensuring that the Nyan Cat is a
 
 ![screenshot](http://i.imgur.com/Jxq7qIO.gif)
 
+Works in any app which shows a reachability window (I think everything except Springboard).
+
 ## Why?
 
 Nyanability was created while playing around with ideas for making the most out of Reachability's space.
