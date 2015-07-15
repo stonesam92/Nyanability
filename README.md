@@ -1,6 +1,6 @@
 # Nyanability: iOS8 Reachability + Nyan Cat
 
-When Apple released the larger iPhone 6 and 6S, they introduced Reachability, a feature which allows users of these devices to access the upper parts of app's UI.
+When Apple released the larger iPhone 6 and 6+, they introduced Reachability, a feature which allows users of these devices to access the upper parts of app's UI.
 
 Nyanability takes this feature one step further, ensuring that the Nyan Cat is also always within a user's reach.
 
